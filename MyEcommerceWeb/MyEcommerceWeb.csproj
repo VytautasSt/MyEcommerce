@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-MyEcommerceWeb-33ee8636-cf4f-4d64-9600-680d84bcbe33</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
